@@ -1,0 +1,16 @@
+/***************************
+********* CUSTOM
+****************************/
+
+#preview { margin-top:30px; }
+.generated .container { padding-top:40px; }
+.well {overflow:auto; display:block; }
+h5{text-transform:uppercase;}
+.btn {background-color:#eee;color:#000;}
+#message,.btn.copycode,#message,.btn.generateimage,.btn.downloadimage{float:left;margin-left:15px;}
+#message{margin-top:7px;display:none;}
+#message.success{color:#090;}
+#message.error{color:#900;}
+#for-image{background-color:#fff;max-width:790px;}
+.downloadimage{display:none;}
+#previewImage{margin-left:15px;clear:both;padding-top:10px;}
