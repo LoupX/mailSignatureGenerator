@@ -20,11 +20,6 @@ $(function () {
 				}
 				if (name == 'mail' && val == '') {
 					val = '';
-				} else if (name == 'pre' && val == '') {
-					val = '';
-				}
-				else if (name == 'poste' && val == '') {
-					val = '';
 				} else {
 					val = $(this).attr("placeholder");
 				}
